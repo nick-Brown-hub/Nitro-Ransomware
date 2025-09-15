@@ -40,3 +40,4 @@ This program should only be used for educational purposes only. Do not use this 
 4. You can change the decryption key too, if you want. ```DECRYPT_PASSWORD```
 5. Click on release, then build the solution. Do NOT run it, because it is malware and may encrypt your files.
 6. You can now test it in a protected environment such as a virtual machine.
+
